@@ -14,5 +14,8 @@ const picker = (list1,list2,list3) => {
 
   
     return one + ','+ two + ' and '+ three;
-}
-console.log(picker(messenger.greet,messenger.advice,messenger.advice2))
+};
+ // print
+console.log(picker(messenger.greet,messenger.advice,messenger.advice2));
+
+// ende
